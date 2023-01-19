@@ -8,6 +8,6 @@ author_profile: true
 #  - /about.html
 ---
 
-Under development. Please see the sidebar to links to my GitHub and Google Scholar. 
+Under active development. Please see the sidebar to links to my GitHub and Google Scholar. 
 
 
