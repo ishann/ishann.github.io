@@ -13,5 +13,5 @@ I am a Masters in Computer Science student at [The University of Texas at Austin
 
 My research experience spans applying Machine Learning to computer vision (weakly and webly supervised learning, long-tailed object detection, semantic segmentation, medical imaging, and biometrics) and human-AI interaction (personalized algorithmic management and fair resource allocation). I am interested in the research and development of large-scale AI systems with a focus on personalized Machine Learning and fairness and ethics.
 
-[Resume](https://ishann.github.io/files/resume_ishan_nigam.pdf) | [Publications](https://ishann.github.io/publications) | [Email](mailto:ishann.cs.utexas.edu)
+[Resume](https://ishann.github.io/files/resume_ishan_nigam.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=1BTZ1zsAAAAJ),  [Email](mailto:ishann.cs.utexas.edu)
 

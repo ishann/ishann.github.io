@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ishan Nigam"
   avatar           : "profile.jpg"
-  bio              : "Graduate student interested in AI/ML"
-  location         : "Austin, TX"
+  bio              : #"Graduate student interested in AI/ML"
+  location         : # Austin, TX
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1BTZ1zsAAAAJ&hl=en"
